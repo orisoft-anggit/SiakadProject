@@ -1,0 +1,6 @@
+@Backend.Siakad_HostAddress = http://localhost:5026
+
+GET {{Backend.Siakad_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
